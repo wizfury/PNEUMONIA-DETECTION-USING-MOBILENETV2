@@ -11,17 +11,22 @@ Normal chest X-Rays
 
 
 ![Pneumonia chest_xray](https://github.com/wizfury/PNEUMONIA-DETECTION-USING-CHEST-XRAYS/assets/68225960/7211d4ff-e6cf-43cb-9c45-50f63463658b)
+
 Pneumonia Chest X-Rays
 
 
 ![accuracy%](https://github.com/wizfury/PNEUMONIA-DETECTION-USING-CHEST-XRAYS/assets/68225960/4c1af501-6a50-4dee-b384-cb271b397885)
+
 Accuracy Score
 
+
 ![Classification Report](https://github.com/wizfury/PNEUMONIA-DETECTION-USING-CHEST-XRAYS/assets/68225960/7d6b5731-d811-4dfe-9c8d-a97535b77187)
+
 Classification Report(Without applying SMOTE)
 
 
 ![after smote](https://github.com/wizfury/PNEUMONIA-DETECTION-USING-CHEST-XRAYS/assets/68225960/786a0a9e-0bec-4fd8-9880-8250aba31240)
+
 Classification Report(SMOTE APPLIED)
 
 
