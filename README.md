@@ -1,3 +1,12 @@
+PNEUMONIA DETECTION USING MOBILENETV2 | Python, Tensorflow, Keras, MobileNetV2, CNN, Deep learning
+
+• Enhanced a technique for pneumonia detection, achieving a reliable 91% accuracy in identifying pneumonia cases
+and an impressive 90% precision for recognizing normal cases
+
+• Effectively addressed the dataset’s class imbalance, by combining an ensemble approach with under-sampling,
+ensuring good precision for both Normal and Pneumonia Cases.
+
+
 ![Train Distribution](https://github.com/wizfury/PNEUMONIA-DETECTION-USING-CHEST-XRAYS/assets/68225960/34741053-b341-415b-9f15-410311f2689e)
 
 Distribution of Train Dataset
